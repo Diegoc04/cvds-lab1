@@ -1,6 +1,6 @@
 ```
 ----------------------- libro.txt -----------------------
-Autores: Daniel, Diego y Yeltzyn
+Autores: Daniel Torres, Diego Castellanos y Yeltzyn Sierra
 
 EL LIBRO MAS FAMOSO DEL MUNDO
 AUTORES:
