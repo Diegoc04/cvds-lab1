@@ -1,7 +1,7 @@
 feerratas.txt
 ----------------------- feerratas.txt -------------------
-FE DE ERRATAS
+FÉ DE ERRATAS
 
-* El tErmino de la pagima (por lo general) 15 es impreSiso.
+* El termino de la pagina (por lo general) 15 es impreciso.
 ---------------------------------------------------------
 ```
