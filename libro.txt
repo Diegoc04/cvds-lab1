@@ -1,5 +1,7 @@
 ```
 ----------------------- libro.txt -----------------------
+Autores: Daniel, Diego y Yeltzyn
+
 EL LIBRO MAS FAMOSO DEL MUNDO
 AUTORES:
 
