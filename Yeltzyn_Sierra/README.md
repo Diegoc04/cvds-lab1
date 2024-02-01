@@ -9,7 +9,7 @@
 * **RECO**
 * **EGI3**
 * **TPRO**
-4. ##Cosas que me gusta##
+4. ## Cosas que me gusta##
   Musica: Mi cancion favorita es: <https://www.youtube.com/watch?v=wBUeg1Fed_o>
   
     Futbol: Mi equipo es ![] (https://images.app.goo.gl/x1dbm6iqHJ6LEecMA)
