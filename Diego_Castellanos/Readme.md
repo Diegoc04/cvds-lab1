@@ -2,7 +2,7 @@
 ### PARTE II. - INTRODUCCIÓNGENERAL GIT
 1. **Diego Fernando Castellanos Amaya**
    
-<img width="749" alt="Negrita,Cursiva" src="https://github.com/Diegoc04/cvds-lab1/assets/89041250/ab600963-0e12-4914-9f45-f155e594a177">
+![MicrosoftTeams-image](https://github.com/Diegoc04/cvds-lab1/assets/89041250/366142a4-5720-445b-bc91-a87389147c99)
 
 3. *Plan de estudios*
    ```
