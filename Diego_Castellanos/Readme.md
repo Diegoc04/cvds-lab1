@@ -13,7 +13,7 @@
    * FDGP
    ```
 5. **Tengo 20 años**
-6. Mi videojuego favorito es [The legend of zelda](https://es.wikipedia.org/wiki/The_Legend_of_Zelda) 
+6. Mi saga de videojuegos favorita es [The legend of zelda](https://es.wikipedia.org/wiki/The_Legend_of_Zelda) 
 
 ### PARTE III. - GIT BRANCHING
 
