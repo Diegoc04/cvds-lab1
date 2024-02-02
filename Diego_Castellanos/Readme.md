@@ -19,3 +19,4 @@
 
 ![WhatsApp Image 2024-02-01 at 8 54 29 PM](https://github.com/Diegoc04/cvds-lab1/assets/89041250/565b6b97-1ae7-4a9f-99dc-16168888c9ce)
 
+![WhatsApp Image 2024-02-02 at 1 49 08 PM](https://github.com/Diegoc04/cvds-lab1/assets/89041250/d2bb6d07-f31a-448f-b755-6e7faf471e0e)
